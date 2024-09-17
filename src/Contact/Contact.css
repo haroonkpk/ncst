@@ -1,0 +1,19 @@
+.full-box{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 500px;
+    height: 400px;
+    display: flex;
+    border: 2px solid rgba(55, 56, 56, 0.582);
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(53, 53, 53, 0.575);
+    font-size: 30px;
+    color: rgb(212, 212, 212);
+}

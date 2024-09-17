@@ -1,0 +1,20 @@
+.poter-box{
+    width: 100%;
+    height: 400px;
+    margin-bottom: 0%;
+    margin-top: 160px;
+    background-color: gainsboro;
+    display: grid;
+    grid-template-rows: 30px 370px;
+    justify-items: center;
+}
+.poter-box h3{
+    letter-spacing: 1px;
+    color: chocolate;
+}
+.poter-box h5{
+    color: rebeccapurple;
+    margin-top: 20px;
+    margin-right: 300px;
+    letter-spacing: 1px;
+}
